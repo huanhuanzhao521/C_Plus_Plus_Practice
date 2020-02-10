@@ -1,5 +1,5 @@
 #include"GMap.h"
-//#include<WINGDI.h>
+
 int GMap::LD = 36;
 int GMap::PD = 3;
 //敌我双方出现位置没有豆子出现
