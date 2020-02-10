@@ -1,0 +1,406 @@
+﻿  framework.cpp
+  GMap.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(294,25): error C3646: “ptPosition”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(294,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(295,21): error C3646: “ptSize”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(295,21): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(296,20): error C3646: “wStyle”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(296,20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(297,22): error C3646: “wPattern”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(297,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(427,22): error C3646: “DataBytes”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(427,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(428,27): error C3646: “InjectionPoint”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(428,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(429,23): error C3646: “PageNumber”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(429,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(515,26): error C3646: “bPageIndependent”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(515,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(516,24): error C3646: “bSetPageDevice”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(516,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(526,22): error C3646: “lOrientation”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(526,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(527,16): error C3646: “lWidth”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(527,16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(528,17): error C3646: “lHeight”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(528,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(529,22): error C3646: “lWidthOffset”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(529,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(530,23): error C3646: “lHeightOffset”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(530,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(592,17): error C3646: “eM11”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(592,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(593,17): error C3646: “eM12”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(593,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(594,17): error C3646: “eM21”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(594,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(595,17): error C3646: “eM22”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(595,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(596,16): error C3646: “eDx”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(596,16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(597,16): error C3646: “eDy”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(597,16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(598,25): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(598,33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(603,23): error C3646: “bmType”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(603,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(604,24): error C3646: “bmWidth”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(604,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(605,25): error C3646: “bmHeight”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(605,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(606,29): error C3646: “bmWidthBytes”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(606,29): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(607,25): error C3646: “bmPlanes”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(607,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(608,28): error C3646: “bmBitsPixel”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(608,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(609,23): error C3646: “bmBits”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(609,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(610,28): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(610,37): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(610,43): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(610,43): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(610,43): error C2377: “FAR”: 重定义；typedef 不能由任何其他符号重载
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(598): message : 参见“FAR”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(610,52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(621,25): error C3646: “rgbtBlue”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(621,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(622,26): error C3646: “rgbtGreen”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(622,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(623,24): error C3646: “rgbtRed”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(623,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(624,32): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(624,27): error C2371: “NEAR”: 重定义；不同的基类型
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(610): message : 参见“NEAR”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(624,44): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(624,50): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(624,50): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(624,50): error C2086: “int FAR”: 重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(610): message : 参见“FAR”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(624,62): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(635,24): error C3646: “rgbBlue”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(635,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(636,25): error C3646: “rgbGreen”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(636,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(637,23): error C3646: “rgbRed”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(637,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(638,28): error C3646: “rgbReserved”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(638,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(647,20): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(647,17): error C2371: “FAR”: 重定义；不同的基类型
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(610): message : 参见“FAR”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(647,31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(672,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(672,16): error C2146: 语法错误: 缺少“;”(在标识符“LCSCSTYPE”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(704,42): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(704,38): error C2371: “FAR”: 重定义；不同的基类型
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(610): message : 参见“FAR”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(704,56): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(705,41): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(705,37): error C2371: “FAR”: 重定义；不同的基类型
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(610): message : 参见“FAR”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(705,54): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(723,21): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(723,17): error C2371: “FAR”: 重定义；不同的基类型
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(610): message : 参见“FAR”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(723,30): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(744,29): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(744,25): error C2371: “FAR”: 重定义；不同的基类型
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(610): message : 参见“FAR”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(744,44): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(758,23): error C3646: “lcsSignature”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(758,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(759,21): error C3646: “lcsVersion”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(759,21): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(760,18): error C3646: “lcsSize”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(760,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(761,24): error C3646: “lcsCSType”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(761,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(764,22): error C3646: “lcsGammaRed”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(764,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(765,24): error C3646: “lcsGammaGreen”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(765,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(766,23): error C3646: “lcsGammaBlue”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(766,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(767,23): error C3646: “lcsFilename”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(767,23): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(767,33): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(767,33): error C2238: 意外的标记位于“;”之前
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(770,23): error C3646: “lcsSignature”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(770,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(771,21): error C3646: “lcsVersion”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(771,21): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(772,18): error C3646: “lcsSize”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(772,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(773,24): error C3646: “lcsCSType”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(773,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(776,22): error C3646: “lcsGammaRed”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(776,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(777,24): error C3646: “lcsGammaGreen”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(777,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(778,23): error C3646: “lcsGammaBlue”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(778,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(779,23): error C3646: “lcsFilename”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(779,23): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(779,33): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(779,33): error C2238: 意外的标记位于“;”之前
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(799,23): error C3646: “bcSize”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(799,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(800,24): error C3646: “bcWidth”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(800,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(801,25): error C3646: “bcHeight”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(801,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(802,25): error C3646: “bcPlanes”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(802,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(803,27): error C3646: “bcBitCount”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(803,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(804,25): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(804,21): error C2371: “FAR”: 重定义；不同的基类型
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(610): message : 参见“FAR”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(804,44): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(804,64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(813,26): error C3646: “biSize”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(813,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(816,28): error C3646: “biPlanes”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(816,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(817,30): error C3646: “biBitCount”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(817,30): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(818,33): error C3646: “biCompression”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(818,33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(819,31): error C3646: “biSizeImage”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(819,31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(822,29): error C3646: “biClrUsed”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(822,29): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(823,34): error C3646: “biClrImportant”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(823,34): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(824,25): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(824,21): error C2371: “FAR”: 重定义；不同的基类型
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(610): message : 参见“FAR”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(824,44): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(824,64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(835,29): error C3646: “bV4Size”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(835,29): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(838,31): error C3646: “bV4Planes”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(838,31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(839,33): error C3646: “bV4BitCount”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(839,33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(840,38): error C3646: “bV4V4Compression”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(840,38): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(841,34): error C3646: “bV4SizeImage”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(841,34): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(844,32): error C3646: “bV4ClrUsed”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(844,32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(845,37): error C3646: “bV4ClrImportant”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(845,37): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(846,32): error C3646: “bV4RedMask”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(846,32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(847,34): error C3646: “bV4GreenMask”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(847,34): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(848,33): error C3646: “bV4BlueMask”: 未知重写说明符
+  GObject.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(848,33): fatal error C1003: 错误计数超过 100；正在停止编译
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(294,25): error C3646: “ptPosition”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(294,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(295,21): error C3646: “ptSize”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(295,21): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(296,20): error C3646: “wStyle”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(296,20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(297,22): error C3646: “wPattern”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(297,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(427,22): error C3646: “DataBytes”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(427,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(428,27): error C3646: “InjectionPoint”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(428,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(429,23): error C3646: “PageNumber”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(429,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(515,26): error C3646: “bPageIndependent”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(515,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(516,24): error C3646: “bSetPageDevice”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(516,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(526,22): error C3646: “lOrientation”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(526,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(527,16): error C3646: “lWidth”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(527,16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(528,17): error C3646: “lHeight”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(528,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(529,22): error C3646: “lWidthOffset”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(529,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(530,23): error C3646: “lHeightOffset”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(530,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(592,17): error C3646: “eM11”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(592,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(593,17): error C3646: “eM12”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(593,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(594,17): error C3646: “eM21”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(594,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(595,17): error C3646: “eM22”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(595,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(596,16): error C3646: “eDx”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(596,16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(597,16): error C3646: “eDy”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(597,16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(598,25): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(598,33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(603,23): error C3646: “bmType”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(603,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(604,24): error C3646: “bmWidth”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(604,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(605,25): error C3646: “bmHeight”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(605,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(606,29): error C3646: “bmWidthBytes”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(606,29): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(607,25): error C3646: “bmPlanes”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(607,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(608,28): error C3646: “bmBitsPixel”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(608,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(609,23): error C3646: “bmBits”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(609,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(610,28): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(610,37): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(610,43): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(610,43): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(610,43): error C2377: “FAR”: 重定义；typedef 不能由任何其他符号重载
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(598): message : 参见“FAR”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(610,52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(621,25): error C3646: “rgbtBlue”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(621,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(622,26): error C3646: “rgbtGreen”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(622,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(623,24): error C3646: “rgbtRed”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(623,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(624,32): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(624,27): error C2371: “NEAR”: 重定义；不同的基类型
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(610): message : 参见“NEAR”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(624,44): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(624,50): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(624,50): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(624,50): error C2086: “int FAR”: 重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(610): message : 参见“FAR”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(624,62): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(635,24): error C3646: “rgbBlue”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(635,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(636,25): error C3646: “rgbGreen”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(636,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(637,23): error C3646: “rgbRed”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(637,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(638,28): error C3646: “rgbReserved”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(638,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(647,20): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(647,17): error C2371: “FAR”: 重定义；不同的基类型
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(610): message : 参见“FAR”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(647,31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(672,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(672,16): error C2146: 语法错误: 缺少“;”(在标识符“LCSCSTYPE”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(704,42): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(704,38): error C2371: “FAR”: 重定义；不同的基类型
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(610): message : 参见“FAR”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(704,56): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(705,41): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(705,37): error C2371: “FAR”: 重定义；不同的基类型
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(610): message : 参见“FAR”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(705,54): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(723,21): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(723,17): error C2371: “FAR”: 重定义；不同的基类型
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(610): message : 参见“FAR”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(723,30): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(744,29): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(744,25): error C2371: “FAR”: 重定义；不同的基类型
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(610): message : 参见“FAR”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(744,44): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(758,23): error C3646: “lcsSignature”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(758,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(759,21): error C3646: “lcsVersion”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(759,21): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(760,18): error C3646: “lcsSize”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(760,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(761,24): error C3646: “lcsCSType”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(761,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(764,22): error C3646: “lcsGammaRed”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(764,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(765,24): error C3646: “lcsGammaGreen”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(765,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(766,23): error C3646: “lcsGammaBlue”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(766,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(767,23): error C3646: “lcsFilename”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(767,23): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(767,33): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(767,33): error C2238: 意外的标记位于“;”之前
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(770,23): error C3646: “lcsSignature”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(770,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(771,21): error C3646: “lcsVersion”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(771,21): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(772,18): error C3646: “lcsSize”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(772,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(773,24): error C3646: “lcsCSType”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(773,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(776,22): error C3646: “lcsGammaRed”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(776,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(777,24): error C3646: “lcsGammaGreen”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(777,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(778,23): error C3646: “lcsGammaBlue”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(778,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(779,23): error C3646: “lcsFilename”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(779,23): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(779,33): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(779,33): error C2238: 意外的标记位于“;”之前
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(799,23): error C3646: “bcSize”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(799,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(800,24): error C3646: “bcWidth”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(800,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(801,25): error C3646: “bcHeight”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(801,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(802,25): error C3646: “bcPlanes”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(802,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(803,27): error C3646: “bcBitCount”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(803,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(804,25): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(804,21): error C2371: “FAR”: 重定义；不同的基类型
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(610): message : 参见“FAR”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(804,44): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(804,64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(813,26): error C3646: “biSize”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(813,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(816,28): error C3646: “biPlanes”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(816,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(817,30): error C3646: “biBitCount”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(817,30): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(818,33): error C3646: “biCompression”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(818,33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(819,31): error C3646: “biSizeImage”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(819,31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(822,29): error C3646: “biClrUsed”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(822,29): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(823,34): error C3646: “biClrImportant”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(823,34): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(824,25): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(824,21): error C2371: “FAR”: 重定义；不同的基类型
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(610): message : 参见“FAR”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(824,44): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(824,64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(835,29): error C3646: “bV4Size”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(835,29): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(838,31): error C3646: “bV4Planes”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(838,31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(839,33): error C3646: “bV4BitCount”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(839,33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(840,38): error C3646: “bV4V4Compression”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(840,38): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(841,34): error C3646: “bV4SizeImage”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(841,34): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(844,32): error C3646: “bV4ClrUsed”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(844,32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(845,37): error C3646: “bV4ClrImportant”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(845,37): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(846,32): error C3646: “bV4RedMask”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(846,32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(847,34): error C3646: “bV4GreenMask”: 未知重写说明符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(847,34): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(848,33): error C3646: “bV4BlueMask”: 未知重写说明符
+  pacman.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WINGDI.h(848,33): fatal error C1003: 错误计数超过 100；正在停止编译
+F:\C++学习\VS_C++\pacman\pacman.cpp(74,8): error C2660: “InitInstance”: 函数不接受 3 个参数
+F:\C++学习\VS_C++\pacman\pacman.cpp(38,21): message : 参见“InitInstance”的声明
+F:\C++学习\VS_C++\pacman\pacman.cpp(79,26): error C2086: “HACCEL hAccelTable”: 重定义
+F:\C++学习\VS_C++\pacman\pacman.cpp(66): message : 参见“hAccelTable”的声明
+  正在生成代码...
+F:\C++学习\VS_C++\pacman\pacman.cpp(214,1): error C2082: 形参“hWnd”的重定义
